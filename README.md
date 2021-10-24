@@ -1,4 +1,4 @@
-### Hi there! I'm Mariana Ruiz.
+### Hi, there! I'm Mariana Ruiz.
 
 ##
 
