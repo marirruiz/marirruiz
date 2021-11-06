@@ -34,9 +34,6 @@
   
 <p align="center"> 
 
- ## Visits <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/marirruiz/count.svg" />
- </p>
+
 
 </p>
